@@ -1,4 +1,6 @@
-import streamlit as st
+# -*- coding: utf-8 -*-
+# coding: utf-8
+
 import time
 from utils import card_utils, game_logic
 
